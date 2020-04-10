@@ -6,6 +6,9 @@
 #### A .NET Core Clash Royale Server (v1.9)
 ##### If you want to test the current build you can download [this](https://retroroyale.xyz) client.
 ##### Need help? Join our [Discord](https://discord.gg/XdTw2PZ)
+## Tutorial link
+Tutorial Edit IP Clash Royale - https://www.youtube.com/watch?v=Z8zQO2yU8Yw&feature=youtu.be
+Tutorial Setup Clash Royale Offline - https://www.youtube.com/watch?v=lZgzvUUzfpQ&feature=youtu.be
 
 ## Battles
 The server supports battles, for those a patched client is neccessary.
